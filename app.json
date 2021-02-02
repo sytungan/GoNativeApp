@@ -1,0 +1,12 @@
+{
+  "name": "GoNativeApp",
+  "displayName": "GoNativeApp",
+  "expo": {
+    "name": "GoNativeApp",
+    "slug": "GoNativeApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
