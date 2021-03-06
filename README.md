@@ -1,2 +1,2 @@
 # GoNativeApp
-This is reponsitory for DBMS course
+This is a Basic App with React Native
